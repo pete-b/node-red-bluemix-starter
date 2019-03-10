@@ -19,7 +19,7 @@
         "node-red-nodes-cf-sqldb-dashdb":"0.x",
         "node-red-contrib-ibmpush":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x",
-        "node-red-contrib-statistics":"1.x",
+        "node-red-contrib-statistics":"2.x",
         "node-red-contrib-graphs":"0.x",
         "node-red-dashboard":"2.x",
         "node-red-node-random":"0.x",
